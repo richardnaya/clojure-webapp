@@ -1,7 +1,7 @@
 
 Updated: April 5, 2018 by Richard
 
-# Continuous deployment of Clojure web applications
+# Clojure web application
 
 This repo contains a sample web application and accompanying bits needed to build and deploy it (or any other Clojure web app) using
 [jclouds](http://code.google.com/p/jclouds/), [pallet](http://github.com/hugoduncan/pallet), and [Hudson](http://hudson-ci.org/),
